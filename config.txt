@@ -1,0 +1,20 @@
+配置文件：
+1:cd /home,tarena/month2/18
+2:git init(建立git体质)
+3:git config --global user.name Tedu
+4:git config user.email zhaimengnan126@126.com
+5:cat ~/.gitconfig
+6:git config --list
+7:git status
+位于分支 master
+尚无提交
+未跟踪的文件:
+  （使用 "git add <文件>..." 以包含要提交的内容）
+
+	__init__.py   （文字为红色标记，此文件没有保存,先暂存:git add*(不包含隐藏文件)）
+	　　　　　　　　　　git add timg.jpeg(在增加残体暂停区)
+	config.txt
+
+提交为空，但是存在尚未跟踪的文件（使用 "git add" 建立跟踪）
+
+
